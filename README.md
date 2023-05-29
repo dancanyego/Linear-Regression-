@@ -22,10 +22,10 @@ https://www.kaggle.com/datasets/ashydv/housing-dataset?resource=download
 # Evaluating Whether an app Or a Website Will Have more Customers #2
 
 # coeff
-Avg. Session Length	25.691540
-Time on App	37.892600
-Time on Website	0.560581
-Length of Membership	61.648594
+An Increse in Avg. Session Length	Will increase a revenue of ($ 25.691540 )
+An Increse on Time on App	Increses Revenue By ( $ 37.892600 )
+An Increse on Time on Website	Increases Revenue By ( $ 0.560581 )
+An increase in Length of Membership	increases Revenue By ( $ 61.648594 )
 
 # Models Metrics 
 
