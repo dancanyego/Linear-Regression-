@@ -1,7 +1,7 @@
-# Housing-Price-prediction
+# Housing-Price-prediction # Project 1
 Trying to Predic housing prices Using Linear Regression Model and Sklearn
 
-	coeff
+	coeff (How An Increase In Various Factors Affects The Pricing)
 area	3.385669e+02
 bedrooms	1.837452e+05
 bathrooms	1.119619e+06
